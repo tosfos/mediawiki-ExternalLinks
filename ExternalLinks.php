@@ -4,7 +4,7 @@ $wgExtensionCredits['specialpage'][] = array(
 	'path' => __FILE__,
 	'name' => 'External Links',
 	'version' => '1.23',
-	'author' => array( 'Subfader', 'Roman1983'),
+	'author' => array( 'Subfader', '[http://roman-allenstein.de Roman Allenstein]'),
 	'url' => 'http://www.mediawiki.org/wiki/Extension:ExternalLinks',
 	'descriptionmsg' => 'el-desc',
 );
