@@ -3,8 +3,8 @@
 $wgExtensionCredits['specialpage'][] = array(
 	'path' => __FILE__,
 	'name' => 'External Links',
-	'version' => '1.1.1',
-	'author' => array( 'Subfader' ),
+	'version' => '1.23',
+	'author' => array( 'Subfader', 'Roman1983'),
 	'url' => 'http://www.mediawiki.org/wiki/Extension:ExternalLinks',
 	'descriptionmsg' => 'el-desc',
 );
